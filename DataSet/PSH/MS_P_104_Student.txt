@@ -1,0 +1,101 @@
+Reg#,Name,Father,Address,Date of Birth,lastDeg,Reg Date,Reg Status,Deg Status
+300,Siraj Jaffery,Rahmat Jaffery,h no.35 St. No.71  Khybar road PESHAWAR,13-2-81,MS,4-8-04,A,I
+301,Shabi Khan,Sarwar Khan,Ho. No.582 st. # 66  Durre Psh,13-10-81,M.Sc,7-8-04,A,I
+302,Wajida Jaffery,Muazzam Akram Jaffery,H No. 896 s no. 29 Malik abad Noshera,16-11-81,MS,10-8-04,A,I
+303,Abdus Sammi Khattak,Hafiz Qutab-ud-Din Khattak,house #  211 street no. 25 Bara market peshawar,16-7-80,BE,14-8-04,A,I
+304,Inayyat Sammi Ansari,Chodhary Hayyat Ansari,h#  525 St. #  20 Khybar road PSH,18-4-80,M.Phil,17-8-04,A,I
+305,Nabeera Sarwar,Sarwar Firdous,House #  72 St. #  15 Koral Hasanabdal,18-4-80,BE,20-8-04,A,I
+306,Muazzum Abdur Rahim Haq,Sonil Haq,H#  387 s#  79 Lane 6 Mall road PSH,20-12-80,M.Phil,23-8-04,A,I
+307,Naseema Sehti,Akram Kareem Sehti,ho. #  701 street #  74 Saat meel Gilgit,22-9-82,MSc,27-8-04,A,I
+308,Niaz Mustafa Haq,Anjum Daud Haq,House No.248 street # 69  Byaar Sawat,23-9-82,BS,1-8-04,A,I
+309,Mouhammad Ghulam Mustafa Baig,Raja Shehzad Baig,Ho. # 562 S# 33  Durre psh,25-6-82,MSc,4-8-04,A,I
+310, Karam Illahi,Karam Illahi Zabir,house no.877 St. No.28  Railway line Gilgit,25-2-82,BS,7-8-04,A,I
+311,Moeen Kiyyani,Saroor Kiyyani,h no.423 St. No.23  Bara market PESHAWAR,27-2-81,MS,11-8-04,A,I
+312,Qamar Sikandar Khan,Ali Khan,Ho. No.738 s no.19  Khybar road Psh,27-11-81,M.Sc,14-8-04,A,I
+313,Irum Kazmi,Ahmad Saroor Kazmi,H No. 53 street no. 82 Saidpur road Noshera,1-7-81,MS,17-8-04,A,I
+314,Munnawar Masud Khan,Agha Muneer Khan,house #  599 St. no. 77 Officers coloney peshawar,1-8-80,BE,21-8-04,A,I
+315,Rahid Raza,Raza Affan,h#  914 St. #  72 Surahi bazar Mardan,3-4-80,M.Phil,24-8-04,A,I
+316,Rida Abdul Qadeer,Abdul Qadeer Sageer,House #  228 s#  68 Farman block Hasanabdal,3-12-80,BE,27-8-04,A,I
+317,Rabbi Minhas,Ghazi Minhas,H#  775 Street No. 31 Durre PSH,5-1-80,M.Phil,1-8-04,A,I
+318,Qudsia Rabbi Muazzam Awan,Rabbi Muazzam Awan,ho. #  89 street #  26 Deinga Gilgit,7-9-82,MSc,5-8-04,A,I
+319,Aga Mustansar Haq,Choudhary Sikandar Haq,House No.404 S# 22  Bara market Peshawar,8-6-82,BS,8-8-04,A,I
+320,Daud Awan,Mouhammad Sajid Awan,Ho. # 719 S# 17  Khybar road psh,10-6-82,MSc,11-8-04,A,I
+321,Qurat-ul-Ain Saeed,Saeed Rahmat,house no.265 Street # 80  Purani Taal Gilgit,10-3-82,BS,14-8-04,A,I
+322,Choudhary Abdul Haseeb Kiyyani,Latif Kiyyani,h no.580 s no.76  Officers coloney PESHAWAR,12-11-81,MS,18-8-04,A,I
+323,Usman Namani,Muazzam Namani,Ho. No.894 s no.71  Bara market Psh,12-11-81,M.Sc,21-8-04,A,I
+324,Nirma Mehmood Rashid Kazmi,Mehmood Rashid Kazmi,H No.441 St. no.66  Illyas abad Noshera,14-8-81,MS,24-8-04,A,I
+325,Abdul Hannan Masood Qureshi,Mohammad Abdul Suleh Qureshi,Ho. no. 755 St. #  30 Durre Psh,15-4-81,M.Sc,27-8-04,A,I
+326,Haseeb Ghulam Mustafa,Ghulam Mustafa Jamal,h#  70 S No. 25 Biyaal Mardan,17-5-80,M.Phil,2-8-04,A,I
+327,Manahil AAqil,AAqil Sonil,House #  617 Street No. 20 Muzafar shah Hasanabdal,17-1-80,BE,5-8-04,A,I
+328,Ahmed Ismaili,Adul Qudoos Ismaili,H#  931 street #  84 Khybar road PSH,19-9-80,M.Phil,8-8-04,A,I
+329,Muazzum Suleman Niazi,Anjum Farman Niazi,house #  246 st. #  79 College road Mardan,21-10-80,BE,11-8-04,A,I
+330,Zahid Haqq,Mirza Shehzad Haqq,House No. 792 S#  74 Officers coloney Peshawar,21-6-82,BS,15-8-04,A,I
+331,Iffan Abdul Rafay Paracha,Choudhary Saleem Paracha,Ho. # 107 Street # 69  Bara market psh,24-3-82,MSc,18-8-04,A,I
+332,Maheen Zarar,Zarar Nadir,house no.422 Street # 33  Karki Gilgit,24-3-82,BS,21-8-04,A,I
+333,Gul Mukhtar Sherazi,Niaz Sherazi,h no.968 s no.28  Air port coloney PESHAWAR,26-11-81,MS,25-8-04,A,I
+334,Zakir Namani,Ahmad Ibrahim Namani,Ho. No.283 St. no.23  Afangi block Haripur,26-8-81,M.Sc,28-8-04,A,I
+335,Madiha Abu Bakr Zil-e-Ali Sherazi,Abu Bakr Zil-e-Ali Sherazi,H No.597 St. no.19  Saat meel Noshera,28-8-81,MS,2-8-04,A,I
+336,Shabi Qureshi,Sheik Affan Qureshi,Ho. no.144 S No.82  Khybar road Psh,28-5-81,M.Sc,5-8-04,A,I
+337,Amjad Karam,Karam Abdul Wasay,h#  458 Street No. 77 Shah malung Mardan,2-1-80,M.Phil,9-8-04,A,I
+338,Nida Sohail,Sohail Ghani,House #  773 Street No. 73 kurang nala Hasanabdal,2-1-80,BE,12-8-04,A,I
+339,Mouhammed Faizan Khanzada,Ibrahim Khanzada,H#  88 st. #  68 Bara market PSH,4-10-80,M.Phil,15-8-04,A,I
+340,Inayyat Hussaini,Sikandar Abid Hussaini,house #  634 S#  31 Kotlia Mardan,6-6-80,BE,18-8-04,A,I
+341,Kalim Ismaili,M. Sajid Ismaili,House No. 949 street no. 27 Air port coloney Peshawar,6-7-82,BS,22-8-04,A,I
+342,Syed Abdur Raziq Hussaini,Choudhary Shazil Hussaini,Ho. #  263 Street #  22 Officers coloney psh,8-3-82,MSc,25-8-04,A,I
+343,Nazima Abdul Qadir,Abdul Qadir Yaseen,house no.810 s no.85  Surahi bazar Gilgit,9-11-82,BS,28-8-04,A,I
+344,Daud Paracha,Fazal Paracha,ho. # 124 s# 81  Khybar road psh,11-12-82,MSc,2-8-04,A,I
+345,Ghulam Yasin Haque,Mehmood Bulbul Haque,Ho. No.439 St. no.76  Sukkhan abad Haripur,11-8-81,M.Sc,6-8-04,A,I
+346,Umme Habiba Sherazi,Gul Ejaz Sherazi,H No.986 S No.71  Deinga Noshera,13-5-81,MS,9-8-04,A,I
+347,Najum Zaidi,Syyed Jamal Zaidi,Ho. no.300 S No.34  Bara market Psh,13-5-81,M.Sc,12-8-04,A,I
+348,Muneer Shakeel,Shakeel Abdul Hameed,h#  615 Street No. 30 Park road Mardan,16-1-80,M.Phil,16-8-04,A,I
+349,Maira Usmani,Abdus Sattar Usmani,House #  161 st. #  25 Air port coloney peshawar,16-10-80,BE,19-8-04,A,I
+350,Yosaf Munnawar Kharasani,Athar Kharasani,H#  476 st. #  20 Officers coloney PSH,18-10-80,M.Phil,22-8-04,A,I
+351,Rehmat Usmani,Shehzad Mujeeb Usmani,house #  790 street no. 84 Kumria Mardan,20-7-80,BE,25-8-04,A,I
+352,Hafiz Qasim Laghari,Ch. Saleem Laghari,House No. 337 Street #  79 Afridi block Peshawar,20-3-82,BS,29-8-04,A,I
+353,Viqar-ul-Islam Bhatti,Mirza Fakhir Bhatti,Ho. #  652 St. #  74 Air port coloney psh,22-4-82,MSc,3-8-04,A,I
+354,Zunera Immad,Immad Umar,house no.966 s# 70  Biyaal Gilgit,23-12-82,BS,6-8-04,A,I
+355,Babar Pasha,Rehan Pasha,ho. # 513 St. no.33  Bara market psh,25-8-82,MSc,9-8-04,A,I
+356,Atif Zakir Haque,Abu Bakr Raza Haque,Ho. No.827 street # 28  Karkhana road Haripur,25-9-81,M.Sc,13-8-04,A,I
+357,Sumreen Pasha,Rashid Suleman Pasha,H No.142 S No.24  Shehar bazar Noshera,27-5-81,MS,16-8-04,A,I
+358,Moeen Najum Abbasi,Muhammad Abdul Wasay Abbasi,Ho. no.456 St. No.87  Officers coloney Psh,27-2-81,M.Sc,19-8-04,A,I
+359,Ismail Zubair,Zubair Tanveer,h no.3 st. # 82  Purana shehar Haripur,29-10-81,MS,22-8-04,A,I
+360,Benazir Abbasi,Ismail Abbasi,House #  318 st. #  78 Afridi block peshawar,1-10-80,BE,26-8-04,A,I
+361,Munir Kharasani,Asfar Kharasani,H#  632 street no. 73 Air port coloney PSH,3-7-80,M.Phil,29-8-04,A,I
+362,Osama Nazir Ansary,Sajid Tabraiz Ansary,house #  179 Street #  36 Afangi block Mardan,5-3-80,BE,3-8-04,A,I
+363,Choudhary Zafar Gondal,Nawabzada Shazil Gondal,House No. 493 St. #  32 University coloney Peshawar,5-4-82,BS,7-8-04,A,I
+364,Masood Munnawar,Munnawar Mustamsir,Ho. #  808 s#  27 Afridi block psh,7-12-82,MSc,10-8-04,A,I
+365,Babra Baig,Syed Tanveer Baig,house no. 354 St. no. 22 Air port coloney Peshawar,7-8-82,BS,13-8-04,A,I
+366,Murtaza Zulqur nain,Zulqur nain Waqar,ho. # 669 street # 85  kurang nala Sawat,10-9-82,MSc,16-8-04,A,I
+367,Muneer Jaffery,Asfar Jaffery,Ho. No.984 S No.81  University coloney Psh,10-5-81,M.Sc,20-8-04,A,I
+368,Manahil Daniyal Ghulam Mustafa Durrani,Daniyal Ghulam Mustafa Durrani,H No.530 St. No.76  Akbar masjid Noshera,12-2-81,MS,23-8-04,A,I
+369,Sikandar Jaffery,Anayyat Javed Jaffery,Ho. no.845 St. No.71  Main workshop Abbotabad,12-2-81,M.Sc,26-8-04,A,I
+370,Mudassir Mukhtar Khattak,Chodhary Momin Khattak,h no.159 st. # 35  Officers coloney PESHAWAR,14-10-81,MS,29-8-04,A,I
+371,Mahjabeen Farman,Farman Shaukat,House # 706 street no.30  Sherazia coloney Hasanabdal,14-7-80,BE,4-8-04,A,I
+372,Rasheed Kabir,Kabir Nazir,H#  20 street no. 25 Kachi abadi Attock,17-7-80,M.Phil,7-8-04,A,I
+373,Raza Shaheen Haqqie,Salman Haqqie,house #  335 St. #  89 Air port coloney peshawar,17-4-80,BE,10-8-04,A,I
+374,Wajiha Zeeshan Adil Sehti,Zeeshan Adil Sehti,h#  650 s#  84 Deinga Hasanabdal,19-12-80,M.Phil,13-8-04,A,I
+375,Mohammad Jibran Haq,Shk. Mujahid Haq,Ho. #  196 s#  79 University coloney psh,21-12-82,MSc,17-8-04,A,I
+376,Mahpara Syed Azam Baig,Syed Azam Baig,house no. 511 street #  75 Afridi block Peshawar,21-9-82,BS,20-8-04,A,I
+377,Kamran Fakhir,Fakhir Zafar,ho. #  825 S No. 38 Zikria Sawat,23-5-82,MSc,23-8-04,A,I
+378,Sh. Masood Baig,Abdul Najeeb Baig,Ho. No.372 S# 33  Afindi road Psh,24-6-81,M.Sc,27-8-04,A,I
+379,Tamania Khan,Zahid Baqir Khan,H No.687 St. No.29  Taj abad Noshera,26-2-81,MS,1-8-04,A,I
+380,Abdul kareem Jaffery,Farrukh Momin Jaffery,Ho. no.1 st. # 24  Nizam pur Abbotabad,26-10-81,M.Sc,4-8-04,A,I
+381,Mouhammad Mumtaz Khan,Rana Mukhtar Khan,h no.548 s no.87  Air port coloney PESHAWAR,28-11-81,MS,7-8-04,A,I
+382,Asia Ehsan,Ehsan Nadeem,House # 862 street no.82  Karnianwala Hasanabdal,28-7-80,BE,11-8-04,A,I
+383,Shahroze Osama Khattak,Najam Khattak,H#  177 St. #  78 University coloney PSH,2-4-80,M.Phil,14-8-04,A,I
+384,Ayyaz Minhas,Emmad Minhas,house #  723 St. #  73 Afridi block peshawar,2-4-80,BE,17-8-04,A,I
+385,Umaima Khattak,Junaid Arsalan Khattak,h#  38 Street No. 36 Shehar bazar Hasanabdal,4-1-80,M.Phil,20-8-04,A,I
+386,Abdullah Haq,Raja Malik Haq,Ho. #  353 street #  32 Afindi road psh,6-9-82,MSc,24-8-04,A,I
+387,Shehla Awan,Mouhammad Viqar Awan,house no. 899 street #  27 University coloney Peshawar,6-9-82,BS,27-8-04,A,I
+388,Kalim Shan,Shan Qaisar,ho. #  214 S#  22 Jamia masjid chowk Sawat,8-6-82,MSc,1-8-04,A,I
+389,Choudhary Abdur Rahman Kiyyani,Daniyal Kiyyani,House No.528 St. No.86  Air port coloney Peshawar,9-2-82,BS,4-8-04,A,I
+390,Iffat Ahsan Ajab Chatta,Ahsan Ajab Chatta,H No.75 Street # 81  Shuakat coloney Noshera,11-3-81,MS,8-8-04,A,I
+391,Alam Usman Kiyyani,Momin Muazzam Kiyyani,Ho. no.389 s no.76  Mutian wala Abbotabad,11-11-81,M.Sc,11-8-04,A,I
+392,Zubair Qureshi,Hafiz Arshad Qureshi,h no.704 street no.40  Afridi block PESHAWAR,13-7-81,MS,14-8-04,A,I
+393,Bushra Zulfiqar,Zulfiqar Jameel,Ho. No.19 St. no.35  Shah malung Noshera,13-8-81,M.Sc,17-8-04,A,I
+394,Abdul Wasay Qureshi,Salman Qureshi,H# 565 St. # 30  Afindi road PSH,15-4-80,M.Phil,21-8-04,A,I
+395,Mohammed Amer Minhas,Murtaza Minhas,house #  880 Street No. 26 University coloney peshawar,16-1-80,BE,24-8-04,A,I
+396,Rukhsana Mujahid Malik Niazi,Mujahid Malik Niazi,h#  194 Street No. 89 Akbar masjid Hasanabdal,18-1-80,M.Phil,27-8-04,A,I
+397,Ahsan Ikram Ismaili,Mohammed Shabeer Ismaili,Ho. #  741 street #  84 Industrial estate psh,20-9-82,MSc,2-8-04,A,I
+398,Sadia Abdul Hameed,Abdul Hameed Muaz,house no. 55 S#  79 Jalabad Gilgit,20-6-82,BS,5-8-04,A,I
+399,AAdil Latif,Latif Obaid,ho. #  370 S#  75 Sherazia coloney Sawat,22-6-82,MSc,8-8-04,A,I
